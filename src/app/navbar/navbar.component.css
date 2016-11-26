@@ -1,0 +1,15 @@
+.bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #ffffff;
+}
+
+
+.home-component{
+	height: 50px;
+	width: 50px;
+}
+
+.something{
+	padding-top: 15%;
+}
+
